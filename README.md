@@ -4,6 +4,8 @@ This repository is part of a broader research contribution documented in the boo
 
 **Strategi Komputasi Cerdas untuk Optimasi Sistem Tenaga Listrik**
 
+[![DOI](https://zenodo.org/badge/1205052523.svg)](https://doi.org/10.5281/zenodo.19473215)
+
 Rifki Rahman Nur Ikhsan, Jangkung Raharjo, Lindiasari Martha Yustika, Runik Machfiroh
 
 ---
